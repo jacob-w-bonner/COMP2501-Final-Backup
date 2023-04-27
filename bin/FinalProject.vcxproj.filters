@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\file_utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\game_object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\player_game_object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\collectible_game_object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\enemy_game_object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\math_object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\obstacle_game_object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\bullet_object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\particle_system.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\particles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\timed_object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\physical_object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\text_game_object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\drawing_game_object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\enemy_bullet_object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\enemy_behaviour.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\enemy_handler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\file_utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\game_object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\player_game_object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\geometry.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\sprite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\collectible_game_object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\enemy_game_object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\math_object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\obstacle_game_object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\bullet_object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\particle_system.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\particles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\timed_object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\physical_object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\text_game_object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\drawing_game_object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\enemy_bullet_object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\enemy_behaviour.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\enemy_handler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\sprite_vertex_shader.glsl" />
+    <None Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\sprite_fragment_shader.glsl" />
+    <None Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\particle_vertex_shader.glsl" />
+    <None Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\particle_fragment_shader.glsl" />
+    <None Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\drawing_fragment_shader.glsl" />
+    <None Include="C:\Users\jacob\Documents\University\Second Year\COMP 2501\FinalProject\text_fragment_shader.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5E251869-DDD6-30C5-8CAF-B02573BAC498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{38012544-7FB1-3B7F-8679-3453ECB31000}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
